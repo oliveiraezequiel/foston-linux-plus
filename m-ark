@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Obtém a arquitetura do sistema
+arch=$(uname -m)
+
+# Exibe a arquitetura
+echo "A arquitetura do sistema é: $arch"
+
